@@ -10,7 +10,7 @@ location: "Chennai, India"
 
 Conducted classes covering basics of Machine Learning and Deep Learning, Optimization, Regularization, CNNs, Word Vectors, RNNs and Encoder-Decoder Models for an audience of 90 people comprising Undergraduate and Post-Graduate students
 
-Some of the slides were prepared by me and Vaibhav Nayel, and some were amazing slides borrowed from [<span style="color:blue">Prof. Mitesh M. Khapra's</span>](https://www.cse.iitm.ac.in/~miteshk/) Deep Learning course (CS7015)
+Developed some content and borrowed some from [<span style="color:blue">Prof. Mitesh M. Khapra's</span>](https://www.cse.iitm.ac.in/~miteshk/) Deep Learning course (CS7015)
 
 The following were the topics covered over a span of 1 month
 
