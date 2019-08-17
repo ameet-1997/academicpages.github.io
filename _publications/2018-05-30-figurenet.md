@@ -6,7 +6,7 @@ excerpt: 'This paper details the approach which achieved state-of-the-art perfor
 date: 2018-07-15
 venue: 'Humanizing Artificial Intelligence Workshop, IJCAI-18, Stockholm, Sweden'
 paperurl: 'https://arxiv.org/pdf/1806.04655.pdf'
-citation: 'Reddy, R., Ramesh, R., Deshpande, A., & Khapra, M. M. (2018). A Question-Answering framework for plots using Deep learning. arXiv preprint arXiv:1806.04655.'
+# citation: 'Reddy, R., Ramesh, R., Deshpande, A., & Khapra, M. M. (2018). A Question-Answering framework for plots using Deep learning. arXiv preprint arXiv:1806.04655.'
 ---
 
 [Download paper here](http://ameet-1997.github.io/files/qaplots.pdf)
