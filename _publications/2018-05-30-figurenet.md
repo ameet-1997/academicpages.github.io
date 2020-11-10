@@ -4,14 +4,16 @@ collection: publications
 permalink: /publications/questionansweringplots
 excerpt: 'This paper details the approach which achieved state-of-the-art performance on [<span style="color:blue">FigureQA</span>](https://datasets.maluuba.com/FigureQA) Dataset'
 date: 2018-07-15
-venue: 'Humanizing Artificial Intelligence Workshop, IJCAI-18, Stockholm, Sweden'
-paperurl: 'https://arxiv.org/pdf/1806.04655.pdf'
+venue: '2019 International Joint Conference on Neural Networks (IJCNN)'
+paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8851830'
 # citation: 'Reddy, R., Ramesh, R., Deshpande, A., & Khapra, M. M. (2018). A Question-Answering framework for plots using Deep learning. arXiv preprint arXiv:1806.04655.'
 ---
 
-[Download paper here](http://ameet-1997.github.io/files/qaplots.pdf)
+[Download paper here](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8851830)
 
-[Link](https://www.humanizing-ai.com/) to homepage of Humanizing Artificial Intelligence Workshop, IJCAI
+## Short Summary
+- Created a novel architecture comprising depth-wise, 1-D convolutions and LSTMs, for question-answering on scientific plots.
+\item Achieved state-of-the-art accuracy (83.95%) on FigureQA Dataset (Maluuba-Microsoft), bettering Relational Networks (Google DeepMind) by 8.53% and reducing the training time by 93% with 75% lesser computational resources.
 
 ## Abstract
 
@@ -38,5 +40,3 @@ baseline which requires around two weeks to train
 on 4 GPUs.
 
 <hr />
-
-Recommended citation: Reddy, R., Ramesh, R., Deshpande, A., & Khapra, M. M. (2018). A Question-Answering framework for plots using Deep learning. arXiv preprint arXiv:1806.04655.
