@@ -3,7 +3,7 @@ title: "Guiding Attention for Self-Supervised Learning with Transformers"
 collection: publications
 permalink: /publications/attentionguidance
 excerpt: 'We introduce a method called attention-guidance, which uses intuitive priors to modify self-attention heads in Transformer models. Our approach gives faster convergence and better downstream performance, and allows convergence of large models on as little as 4 GPUs.'
-date: 2020-11-16
+date: 2020-11-17
 venue: 'Findings of EMNLP , EMNLP-2020, Virtual Event'
 paperurl: 'https://arxiv.org/pdf/2010.02399.pdf'
 ---
