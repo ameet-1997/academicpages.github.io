@@ -3,7 +3,7 @@ title: "Attention Guidance: Guiding Attention for Self-Supervised Learning with 
 collection: talks
 type: "Talk"
 permalink: /talks/ag
-venue: "IBM Research, New York"
+venue: "IBM Research"
 date: 2020-11-04
 location: "New York, USA"
 ---
