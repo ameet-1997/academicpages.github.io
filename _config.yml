@@ -79,12 +79,12 @@ analytics:
 # Site Author
 author:
   name             : "Ameet Deshpande"
-  avatar           : "IDCard.jpg"
+  avatar           : "Profile_Picture.jpg"
   bio              : "Ph.D. Candidate, Machine Learning, Princeton University"
   location         : "Princeton, NJ, USA"
   employer         :
   googlescholar    : "https://scholar.google.co.in/citations?user=332L1coAAAAJ&hl=en"
-  email            : "asd@princeton.edu"
+  email            : "asd@cs.princeton.edu"
   uri              :
   bitbucket        :
   codepen          :
