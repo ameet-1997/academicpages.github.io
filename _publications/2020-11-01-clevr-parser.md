@@ -9,7 +9,9 @@ paperurl: 'https://arxiv.org/pdf/2009.09154.pdf'
 # citation: 'Reddy, R., Ramesh, R., Deshpande, A., & Khapra, M. M. (2018). A Question-Answering framework for plots using Deep learning. arXiv preprint arXiv:1806.04655.'
 ---
 
-[Link](https://nlposs.github.io/2020/index.html) to homepage of Natural Language Processing Open Source Software (NLP-OSS) Workshop, EMNLP 2020
+## Paper
+- [Link](https://arxiv.org/pdf/2009.09154.pdf) to paper.
+- [Link](https://nlposs.github.io/2020/index.html) to homepage of Natural Language Processing Open Source Software (NLP-OSS) Workshop, EMNLP 2020.
 
 ## Abstract
 

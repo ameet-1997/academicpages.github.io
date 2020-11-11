@@ -8,6 +8,9 @@ venue: 'Findings of EMNLP , EMNLP-2020, Virtual Event'
 paperurl: 'https://arxiv.org/pdf/2010.02399.pdf'
 ---
 
+## Paper
+- [Link](https://arxiv.org/pdf/2010.02399.pdf) to paper.
+
 ## Abstract
 
 In this paper, we propose a simple and effective technique to allow for efficient self-supervised learning with bi-directional Transformers. Our approach is motivated by recent

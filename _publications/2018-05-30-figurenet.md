@@ -9,7 +9,8 @@ paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8851830'
 # citation: 'Reddy, R., Ramesh, R., Deshpande, A., & Khapra, M. M. (2018). A Question-Answering framework for plots using Deep learning. arXiv preprint arXiv:1806.04655.'
 ---
 
-[Download paper here](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8851830)
+## Paper
+- [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8851830) to paper.
 
 ## Short Summary
 - Created a novel architecture comprising depth-wise, 1-D convolutions and LSTMs, for question-answering on scientific plots.
